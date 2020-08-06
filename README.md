@@ -1,7 +1,8 @@
 ### Hi ,I'm Amal hossam 😄👋
-<div>
-<h1>I'm Front End developer</h1>
-<img src="bg.jpg" >
+<hr>
+<div style="width:100%; height:500px; background:#ccc">
+<h1> Front End developer</h1>
+<img src="https://i.postimg.cc/MTQbGXj5/bg.jpg" width:"400px" height:"400px >
 </div>
 
 
