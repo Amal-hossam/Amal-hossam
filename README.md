@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi ,I'm Amal hossam 😄👋
+<div>
+<h1>I'm Front End developer</h1>
+<img src="bg.jpg" width:"100px" height:"100px">
+</div>
+
 
 <!--
 **Amal-hossam/Amal-hossam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
