@@ -1,7 +1,7 @@
 ### Hi ,I'm Amal hossam 😄👋
 <div>
 <h1>I'm Front End developer</h1>
-<img src="bg.jpg" width:"100px" height:"100px">
+<img src="bg.jpg" >
 </div>
 
 
